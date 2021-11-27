@@ -27,5 +27,5 @@ MuMMyBot v2 - Macro Program - Keyboard Simulator
 <p><em>Don&#39;t forget to run the program as <strong>administrator</strong>.</em></p>
 
 <img src="https://raw.githubusercontent.com/4MuMMy/MuMMyBot/main/ss1.jpg" />
-<img src="https://raw.githubusercontent.com/4MuMMy/MuMMyBot/main/ss2.jpg />
-<img src="https://raw.githubusercontent.com/4MuMMy/MuMMyBot/main/ss3.jpg />
+<img src="https://raw.githubusercontent.com/4MuMMy/MuMMyBot/main/ss2.jpg" />
+<img src="https://raw.githubusercontent.com/4MuMMy/MuMMyBot/main/ss3.jpg" />
