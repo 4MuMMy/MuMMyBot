@@ -8,7 +8,6 @@ MuMMyBot v2 - Macro Program - Keyboard Simulator
 -Easy access to open windows (with process id, window name or exe name)<br />
 -Detailed key press delay and loop times<br />
 -Save and autosave<br />
--Source code files included (C#)</p>
 
 <h4>Async (Sequential) Macro Features</h4>
 
