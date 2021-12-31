@@ -1,0 +1,21 @@
+2
+123
+*Test - Notepad++
+notepad++
+Standart Input
+Scintilla
+50
+1|500
+D|250
+Esc|
+Esc|
+Esc|
+Esc|
+Esc|
+Esc|
+Esc|
+Esc|
+Ctrl (Left)|A|1000
+→|A|2000
+Esc|Esc|
+Esc|Esc|
